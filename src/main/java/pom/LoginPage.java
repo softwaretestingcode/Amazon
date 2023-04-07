@@ -65,7 +65,6 @@ public class LoginPage {
 
 	public String currentURL() {
 		String url = driver.getCurrentUrl();
-
 		return url;
 	}
 
